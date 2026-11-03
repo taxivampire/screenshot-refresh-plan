@@ -1,0 +1,4 @@
+interface:
+  display_name: "Screenshot Refresh Plan"
+  short_description: "Find store screenshots that need updating"
+  default_prompt: "Use $screenshot-refresh-plan to compare my store screenshots with the current app and list which images need updating, with visual evidence."
